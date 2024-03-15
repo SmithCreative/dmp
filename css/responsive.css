@@ -1,13 +1,13 @@
+/* Extra Large Screens */
 @media (max-width: 1300px) {}
 
+/* Large Screens */
 @media (max-width: 1120px) {}
 
+/* Medium Screens (Tablets) */
 @media (max-width: 992px) {
   .hero_area {
     min-height: auto;
-  }
-
-  .hero_area {
     background: linear-gradient(130deg, #231a6f, #0f054c);
   }
 
@@ -24,27 +24,24 @@
     align-items: center;
   }
 
-
   .custom_nav-container .navbar-nav .nav-item .nav-link {
     padding: 5px 25px;
     margin: 5px 0;
   }
-
-
 }
 
+/* Small Screens (Mobile) */
 @media (max-width: 768px) {
   .about_section .img-box {
     margin-bottom: 45px;
   }
-
 }
 
+/* Extra Small Screens (Mobile Phones) */
 @media (max-width: 576px) {
   .header_section .header_top .contact_nav a span {
     display: none;
   }
-
 
   .client_section .client_container {
     width: 100%;
@@ -67,6 +64,7 @@
   }
 }
 
+/* Very Small Screens (Mobile Phones in Landscape) */
 @media (max-width: 480px) {
   .slider_section .detail-box h1 {
     font-size: 2rem;
@@ -87,6 +85,7 @@
   }
 }
 
+/* Very Very Small Screens (Small Mobile Phones) */
 @media (max-width: 420px) {
   .service_section .box {
     flex-direction: column;
@@ -98,8 +97,10 @@
   }
 }
 
+/* Extra Small Screens (Smallest Mobile Phones) */
 @media (max-width: 376px) {}
 
+/* Large Screens and Up */
 @media (min-width: 1200px) {
   .container {
     max-width: 1170px;
