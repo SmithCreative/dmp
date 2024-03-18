@@ -13,7 +13,7 @@ FAQs: Answers frequently asked questions about PMI Investments and its services.
 Contact Us: Provides contact information for reaching out to PMI Investments.
 
 ### Getting Started
-To view the PMI demo website, simply visit https://smithcreatives.github.io/pmi-demo-website/ in your web browser.
+To view the PMI demo website, simply visit https://smithcreatives.github.io/dmp/ in your web browser.
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
